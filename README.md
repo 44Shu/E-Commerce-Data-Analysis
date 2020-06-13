@@ -1,4 +1,4 @@
-# E-Commerce-Data-Analysis (check the ipynb for details)
+# E-Commerce-Data-Analysis (check the report pdf for complete details)
 
 ## Nowadays, online shopping is becoming more and more popular. People could shop whatever they want at home with a few finger clicks, and need not to consider all those bothersome transportations to get to the shopping mall and the energy and time spent with the in-store assistants. People could even spend more time on comparing different products and deciding what to buy. Driven by this trend, it is very important for eshop owners to explore what is really valued by customers in order to make more profit. Besides those eshop owners, other readers who are online shopper can gain insightful, experienced reports from most of the other online shoppers. So they can aviod some fraud info in the eshops.
 
